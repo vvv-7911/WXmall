@@ -1,0 +1,11 @@
+/* pages/home/home.wxss */
+.goods {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.goods .item {
+  position: relative;
+  width: 48%;
+  margin-top: 16rpx;
+}
